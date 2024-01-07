@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"  />
+  <img height="200" src="https://sanctuarymentalhealth.org/wp-content/uploads/2021/03/The-Starry-Night-1200x630-1.jpg"  />
 </div>
 
 ###
