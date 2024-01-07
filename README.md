@@ -15,7 +15,7 @@
 
 ###
 
----
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=neekho.neekho&"  />
@@ -34,6 +34,8 @@
 <p align="left">I'm Nikho Remulla from Makati<br><br>- 🔭 I’m working as a freelancer and lecturer<br>- 📚 I'm currently learning AngularJS<br>- ⚡ In my free time I read books</p>
 
 ###
+
+---
 
 <h3 align="left">🛠 Language and tools</h3>
 
