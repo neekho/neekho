@@ -24,12 +24,11 @@
 ###
 
 <h1 align="center">hello world 👋</h1>
-<p align="center">
-  <iframe src="https://giphy.com/embed/YkXNjAkG7CfEVx3gcy" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  <p><a href="https://giphy.com/gifs/world-earth-YkXNjAkG7CfEVx3gcy">via GIPHY</a></p>
-</p>
 
-###
+I'm an aspring backend developer and a business owner creating a following online, one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I mainly use Java and Python for my backend, paired with either NoSQL or MySQL.
+
+
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
