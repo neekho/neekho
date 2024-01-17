@@ -25,7 +25,7 @@
 
 <h1 align="center">hello world 👋</h1>
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left">I'm Nikho Remulla from Makati<br><br>- 🔭 I’m working as a freelancer and lecturer<br>- 📚 I'm currently learning AngularJS<br>- ⚡ In my free time I read books</p>
+<p align="left">I'm Nikho Remulla from Makati<br><br>- 🔭 I’m working as a freelancer and lecturer<br>- 📚 I'm currently re-learning Selenium<br>- ⚡ In my free time I read books</p>
 
 
 
