@@ -1,19 +1,4 @@
-![image](https://github.com/neekho/neekho/assets/93105030/c67d7b2f-71fd-4e9e-9c2f-05f58509c48a)![image](https://github.com/neekho/neekho/assets/93105030/11a60f14-5bb3-4021-82fb-0d31f1afcdd9)<div align="center">
-  <img height="200" src="https://sanctuarymentalhealth.org/wp-content/uploads/2021/03/The-Starry-Night-1200x630-1.jpg"  />
-</div>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nikhorem/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/__susibaka/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
 
 
 
@@ -30,8 +15,6 @@
 
 
 I'm an aspring backend developer and a business owner creating a following online, one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I mainly use Java and Python for my backend, paired with either NoSQL or MySQL.
-
-
 
 
 
