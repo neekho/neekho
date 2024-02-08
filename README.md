@@ -1,6 +1,8 @@
 
 
-
+<div align="center">
+  <img src="https://i.ibb.co/mTchZVR/Blue-Modern-Gradient-Technology-Linked-In-Banner.png"/>
+</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=neekho.neekho&"  />
