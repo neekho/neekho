@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/neekho/neekho/assets/93105030/c67d7b2f-71fd-4e9e-9c2f-05f58509c48a)![image](https://github.com/neekho/neekho/assets/93105030/11a60f14-5bb3-4021-82fb-0d31f1afcdd9)<div align="center">
   <img height="200" src="https://sanctuarymentalhealth.org/wp-content/uploads/2021/03/The-Starry-Night-1200x630-1.jpg"  />
 </div>
 
@@ -37,6 +37,27 @@ I'm an aspring backend developer and a business owner creating a following onlin
 
 
 ---
+
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/fernando-lagahit-524095292/" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/fernando.lagahit.52" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Viber&logo=viber&label=&color=665CAC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="viber logo"  />
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="viber logo"  />
+   <a href="" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
