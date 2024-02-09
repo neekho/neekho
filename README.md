@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://i.ibb.co/mTchZVR/Blue-Modern-Gradient-Technology-Linked-In-Banner.png"/>
+  <img src="https://github.com/neekho/neekho/blob/main/.github/workflows/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.png?raw=true">
 </div>
 
 <div align="center">
