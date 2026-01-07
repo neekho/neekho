@@ -16,7 +16,7 @@
 
 
 
-I'm an aspring backend developer and a business owner creating a following online, one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I mainly use Java and Python for my backend, paired with either NoSQL or MySQL.
+I'm a backend developer and a business owner creating a following online, one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I mainly use Java and Python for my backend, paired with either NoSQL or MySQL.
 
 
 
